@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="619.2pt" height="90pt" viewBox="0 0 619.2 90" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-30T14:43:00.289711</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="tool_check-diagnostics-figure_1">
+  <g id="tool_check-diagnostics-patch_1">
+   <path d="M 0 90 
+L 619.2 90 
+L 619.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="tool_check-diagnostics-axes_1">
+   <g id="tool_check-diagnostics-patch_2">
+    <path d="M 5.085592 42.473889 
+L 303.89775 42.473889 
+L 303.89775 15.22649 
+L 5.085592 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="tool_check-diagnostics-matplotlib.axis_1">
+    <g id="tool_check-diagnostics-xtick_1">
+     <g id="tool_check-diagnostics-line2d_1">
+      <defs>
+       <path id="tool_check-diagnostics-mff9f23bfe0" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="5.085592" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_1">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="5.085592" y="54.853967" transform="rotate(-0 5.085592 54.853967)">0</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_2">
+     <g id="tool_check-diagnostics-line2d_2">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="58.444906" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_2">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="58.444906" y="54.853967" transform="rotate(-0 58.444906 54.853967)">5</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_3">
+     <g id="tool_check-diagnostics-line2d_3">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="111.80422" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_3">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="111.80422" y="54.853967" transform="rotate(-0 111.80422 54.853967)">10</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_4">
+     <g id="tool_check-diagnostics-line2d_4">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="165.163534" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_4">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="165.163534" y="54.853967" transform="rotate(-0 165.163534 54.853967)">15</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_5">
+     <g id="tool_check-diagnostics-line2d_5">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="218.522848" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_5">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="218.522848" y="54.853967" transform="rotate(-0 218.522848 54.853967)">20</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_6">
+     <g id="tool_check-diagnostics-line2d_6">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="271.882162" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_6">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="271.882162" y="54.853967" transform="rotate(-0 271.882162 54.853967)">25</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-text_7">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="154.491671" y="66.174749" transform="rotate(-0 154.491671 66.174749)">Tool calls per episode</text>
+    </g>
+   </g>
+   <g id="tool_check-diagnostics-matplotlib.axis_2">
+    <g id="tool_check-diagnostics-ytick_1">
+     <g id="tool_check-diagnostics-line2d_7"/>
+    </g>
+   </g>
+   <g id="tool_check-diagnostics-line2d_8">
+    <defs>
+     <path id="tool_check-diagnostics-mfd07e21c08" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #333333; stroke-width: 0.5"/>
+    </defs>
+    <g clip-path="url(#tool_check-diagnostics-p7b7afa9db4)">
+     <use xlink:href="#tool_check-diagnostics-mfd07e21c08" x="79.788631" y="28.85019" style="fill: #009e73; stroke: #333333; stroke-width: 0.5"/>
+    </g>
+   </g>
+   <g id="tool_check-diagnostics-line2d_9">
+    <path d="M 79.788631 18.496178 
+L 79.788631 39.204201 
+" clip-path="url(#tool_check-diagnostics-p7b7afa9db4)" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-diagnostics-patch_3">
+    <path d="M 5.085592 42.473889 
+L 5.085592 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-diagnostics-patch_4">
+    <path d="M 5.085592 42.473889 
+L 303.89775 42.473889 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-diagnostics-text_8">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="5.085592" y="9.22649" transform="rotate(-0 5.085592 9.22649)">(a) Tool calls</text>
+   </g>
+  </g>
+  <g id="tool_check-diagnostics-axes_2">
+   <g id="tool_check-diagnostics-patch_5">
+    <path d="M 317.387602 42.473889 
+L 616.19976 42.473889 
+L 616.19976 15.22649 
+L 317.387602 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="tool_check-diagnostics-matplotlib.axis_3">
+    <g id="tool_check-diagnostics-xtick_7">
+     <g id="tool_check-diagnostics-line2d_10">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="317.387602" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_9">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="317.387602" y="54.853967" transform="rotate(-0 317.387602 54.853967)">0.00</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_8">
+     <g id="tool_check-diagnostics-line2d_11">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="351.747937" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_10">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="351.747937" y="54.853967" transform="rotate(-0 351.747937 54.853967)">0.02</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_9">
+     <g id="tool_check-diagnostics-line2d_12">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="386.108272" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_11">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="386.108272" y="54.853967" transform="rotate(-0 386.108272 54.853967)">0.04</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_10">
+     <g id="tool_check-diagnostics-line2d_13">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="420.468608" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_12">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="420.468608" y="54.853967" transform="rotate(-0 420.468608 54.853967)">0.06</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_11">
+     <g id="tool_check-diagnostics-line2d_14">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="454.828943" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_13">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="454.828943" y="54.853967" transform="rotate(-0 454.828943 54.853967)">0.08</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_12">
+     <g id="tool_check-diagnostics-line2d_15">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="489.189278" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_14">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="489.189278" y="54.853967" transform="rotate(-0 489.189278 54.853967)">0.10</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_13">
+     <g id="tool_check-diagnostics-line2d_16">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="523.549614" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_15">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="523.549614" y="54.853967" transform="rotate(-0 523.549614 54.853967)">0.12</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_14">
+     <g id="tool_check-diagnostics-line2d_17">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="557.909949" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_16">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="557.909949" y="54.853967" transform="rotate(-0 557.909949 54.853967)">0.14</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-xtick_15">
+     <g id="tool_check-diagnostics-line2d_18">
+      <g>
+       <use xlink:href="#tool_check-diagnostics-mff9f23bfe0" x="592.270284" y="42.473889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-diagnostics-text_17">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="592.270284" y="54.853967" transform="rotate(-0 592.270284 54.853967)">0.16</text>
+     </g>
+    </g>
+    <g id="tool_check-diagnostics-text_18">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="466.793681" y="66.312249" transform="rotate(-0 466.793681 66.312249)">USD per episode</text>
+    </g>
+   </g>
+   <g id="tool_check-diagnostics-matplotlib.axis_4">
+    <g id="tool_check-diagnostics-ytick_2">
+     <g id="tool_check-diagnostics-line2d_19"/>
+    </g>
+   </g>
+   <g id="tool_check-diagnostics-line2d_20">
+    <g clip-path="url(#tool_check-diagnostics-pef2f93b684)">
+     <use xlink:href="#tool_check-diagnostics-mfd07e21c08" x="331.22584" y="28.85019" style="fill: #009e73; stroke: #333333; stroke-width: 0.5"/>
+    </g>
+   </g>
+   <g id="tool_check-diagnostics-line2d_21">
+    <path d="M 331.22584 18.496178 
+L 331.22584 39.204201 
+" clip-path="url(#tool_check-diagnostics-pef2f93b684)" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-diagnostics-patch_6">
+    <path d="M 317.387602 42.473889 
+L 317.387602 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-diagnostics-patch_7">
+    <path d="M 317.387602 42.473889 
+L 616.19976 42.473889 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-diagnostics-text_19">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="317.387602" y="9.22649" transform="rotate(-0 317.387602 9.22649)">(b) Cost</text>
+   </g>
+  </g>
+  <g id="tool_check-diagnostics-legend_1">
+   <g id="tool_check-diagnostics-line2d_22">
+    <defs>
+     <path id="tool_check-diagnostics-m9787b6f88f" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #333333; stroke-width: 0.5"/>
+    </defs>
+    <g>
+     <use xlink:href="#tool_check-diagnostics-m9787b6f88f" x="484.150781" y="79.061719" style="fill: #009e73; stroke: #333333; stroke-width: 0.5"/>
+    </g>
+   </g>
+   <g id="tool_check-diagnostics-text_20">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="497.650781" y="81.686719" transform="rotate(-0 497.650781 81.686719)">episode finished</text>
+   </g>
+   <g id="tool_check-diagnostics-line2d_23">
+    <path d="M 566.853516 79.061719 
+L 574.353516 79.061719 
+L 581.853516 79.061719 
+" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-diagnostics-text_21">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="587.853516" y="81.686719" transform="rotate(-0 587.853516 81.686719)">median</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="tool_check-diagnostics-p7b7afa9db4">
+   <rect x="5.085592" y="15.22649" width="298.812158" height="27.247399"/>
+  </clipPath>
+  <clipPath id="tool_check-diagnostics-pef2f93b684">
+   <rect x="317.387602" y="15.22649" width="298.812158" height="27.247399"/>
+  </clipPath>
+ </defs>
+</svg>

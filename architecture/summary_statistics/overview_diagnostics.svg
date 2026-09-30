@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="374.4pt" height="216pt" viewBox="0 0 374.4 216" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-30T14:43:00.218695</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="overview-diagnostics-figure_1">
+  <g id="overview-diagnostics-patch_1">
+   <path d="M 0 216 
+L 374.4 216 
+L 374.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="overview-diagnostics-axes_1">
+   <g id="overview-diagnostics-patch_2">
+    <path d="M 36.158443 157.841858 
+L 371.39976 157.841858 
+L 371.39976 3.00024 
+L 36.158443 3.00024 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="overview-diagnostics-matplotlib.axis_1">
+    <g id="overview-diagnostics-xtick_1">
+     <g id="overview-diagnostics-line2d_1">
+      <defs>
+       <path id="overview-diagnostics-mec525fba27" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#overview-diagnostics-mec525fba27" x="36.158443" y="157.841858" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_1">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="36.158443" y="170.221936" transform="rotate(-0 36.158443 170.221936)">0</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-xtick_2">
+     <g id="overview-diagnostics-line2d_2">
+      <g>
+       <use xlink:href="#overview-diagnostics-mec525fba27" x="100.258121" y="157.841858" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_2">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="100.258121" y="170.221936" transform="rotate(-0 100.258121 170.221936)">5</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-xtick_3">
+     <g id="overview-diagnostics-line2d_3">
+      <g>
+       <use xlink:href="#overview-diagnostics-mec525fba27" x="164.357799" y="157.841858" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_3">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="164.357799" y="170.221936" transform="rotate(-0 164.357799 170.221936)">10</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-xtick_4">
+     <g id="overview-diagnostics-line2d_4">
+      <g>
+       <use xlink:href="#overview-diagnostics-mec525fba27" x="228.457478" y="157.841858" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_4">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="228.457478" y="170.221936" transform="rotate(-0 228.457478 170.221936)">15</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-xtick_5">
+     <g id="overview-diagnostics-line2d_5">
+      <g>
+       <use xlink:href="#overview-diagnostics-mec525fba27" x="292.557156" y="157.841858" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_5">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="292.557156" y="170.221936" transform="rotate(-0 292.557156 170.221936)">20</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-xtick_6">
+     <g id="overview-diagnostics-line2d_6">
+      <g>
+       <use xlink:href="#overview-diagnostics-mec525fba27" x="356.656834" y="157.841858" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_6">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="356.656834" y="170.221936" transform="rotate(-0 356.656834 170.221936)">25</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-text_7">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="203.779102" y="181.542718" transform="rotate(-0 203.779102 181.542718)">Tool calls per episode</text>
+    </g>
+   </g>
+   <g id="overview-diagnostics-matplotlib.axis_2">
+    <g id="overview-diagnostics-ytick_1">
+     <g id="overview-diagnostics-line2d_7">
+      <defs>
+       <path id="overview-diagnostics-m32f793ca78" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#overview-diagnostics-m32f793ca78" x="36.158443" y="157.841858" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_8">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="29.158443" y="160.531897" transform="rotate(-0 29.158443 160.531897)">0.00</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-ytick_2">
+     <g id="overview-diagnostics-line2d_8">
+      <g>
+       <use xlink:href="#overview-diagnostics-m32f793ca78" x="36.158443" y="139.524279" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_9">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="29.158443" y="142.214318" transform="rotate(-0 29.158443 142.214318)">0.02</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-ytick_3">
+     <g id="overview-diagnostics-line2d_9">
+      <g>
+       <use xlink:href="#overview-diagnostics-m32f793ca78" x="36.158443" y="121.206699" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_10">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="29.158443" y="123.896738" transform="rotate(-0 29.158443 123.896738)">0.04</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-ytick_4">
+     <g id="overview-diagnostics-line2d_10">
+      <g>
+       <use xlink:href="#overview-diagnostics-m32f793ca78" x="36.158443" y="102.88912" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_11">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="29.158443" y="105.579159" transform="rotate(-0 29.158443 105.579159)">0.06</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-ytick_5">
+     <g id="overview-diagnostics-line2d_11">
+      <g>
+       <use xlink:href="#overview-diagnostics-m32f793ca78" x="36.158443" y="84.571541" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_12">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="29.158443" y="87.26158" transform="rotate(-0 29.158443 87.26158)">0.08</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-ytick_6">
+     <g id="overview-diagnostics-line2d_12">
+      <g>
+       <use xlink:href="#overview-diagnostics-m32f793ca78" x="36.158443" y="66.253961" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_13">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="29.158443" y="68.944" transform="rotate(-0 29.158443 68.944)">0.10</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-ytick_7">
+     <g id="overview-diagnostics-line2d_13">
+      <g>
+       <use xlink:href="#overview-diagnostics-m32f793ca78" x="36.158443" y="47.936382" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_14">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="29.158443" y="50.626421" transform="rotate(-0 29.158443 50.626421)">0.12</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-ytick_8">
+     <g id="overview-diagnostics-line2d_14">
+      <g>
+       <use xlink:href="#overview-diagnostics-m32f793ca78" x="36.158443" y="29.618803" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_15">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="29.158443" y="32.308842" transform="rotate(-0 29.158443 32.308842)">0.14</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-ytick_9">
+     <g id="overview-diagnostics-line2d_15">
+      <g>
+       <use xlink:href="#overview-diagnostics-m32f793ca78" x="36.158443" y="11.301223" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="overview-diagnostics-text_16">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="29.158443" y="13.991262" transform="rotate(-0 29.158443 13.991262)">0.16</text>
+     </g>
+    </g>
+    <g id="overview-diagnostics-text_17">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="8.89524" y="80.421049" transform="rotate(-90 8.89524 80.421049)">USD per episode</text>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_16">
+    <defs>
+     <path id="overview-diagnostics-m3dcd8eed76" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5"/>
+    </defs>
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m3dcd8eed76" x="125.897993" y="150.464659" style="fill: #009e73; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_17">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m3dcd8eed76" x="125.897993" y="146.237694" style="fill: #009e73; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_18">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m3dcd8eed76" x="125.897993" y="154.381072" style="fill: #009e73; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_19">
+    <defs>
+     <path id="overview-diagnostics-mbf54778d12" d="M 0 -2.5 
+L -2.5 2.5 
+L 2.5 2.5 
+z
+" style="stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="128.035562" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_20">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="128.616687" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_21">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="128.46385" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_22">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="128.450111" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_23">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="128.489609" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_24">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="356.656834" y="10.344175" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_25">
+    <defs>
+     <path id="overview-diagnostics-m86ceacaa4d" d="M -0 3.535534 
+L 3.535534 0 
+L 0 -3.535534 
+L -3.535534 -0 
+z
+" style="stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.71567" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_26">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.597179" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_27">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.70365" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_28">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.798237" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_29">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.6092" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_30">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.659069" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_31">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.758671" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_32">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.501767" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_33">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.757709" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_34">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.757709" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_35">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.621976" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_36">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.792055" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_37">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.821317" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_38">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.831552" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_39">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.739712" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_40">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.951006" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_41">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.892618" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_42">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.748299" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_43">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.707084" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_44">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.607482" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_45">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.887466" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_46">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.977314" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_47">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="157.094226" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_48">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="157.135441" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_49">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.950662" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_50">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.847557" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_51">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="157.051913" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_52">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="157.111261" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_53">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="157.222884" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_54">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="157.089006" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_55">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.703993" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_56">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.800229" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_57">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.815684" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_58">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.824339" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_59">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.700696" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_60">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.822622" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_61">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.736759" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_62">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.770074" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_63">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.637912" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_64">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.924628" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_65">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.924697" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_66">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.601712" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_67">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.577808" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_68">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.916111" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_69">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.661061" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_70">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.788139" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_71">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.683386" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_72">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.712511" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_73">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.449837" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_74">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.853464" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_75">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m86ceacaa4d" x="125.897993" y="156.844878" style="fill: #999999; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_76">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="129.039548" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_77">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="128.761281" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_78">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="128.936512" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_79">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="128.962202" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_80">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="61.798314" y="129.342544" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_81">
+    <defs>
+     <path id="overview-diagnostics-m50b8070573" d="M -2.5 2.5 
+L 2.5 2.5 
+L 2.5 -2.5 
+L -2.5 -2.5 
+z
+" style="stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m50b8070573" x="215.637542" y="90.900219" style="fill: #56b4e9; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_82">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m50b8070573" x="215.637542" y="86.783503" style="fill: #56b4e9; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_83">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="113.078057" y="118.8272" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_84">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m50b8070573" x="215.637542" y="83.359741" style="fill: #56b4e9; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_85">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m50b8070573" x="215.637542" y="126.640518" style="fill: #56b4e9; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_86">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m50b8070573" x="215.637542" y="128.208319" style="fill: #56b4e9; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_87">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="87.438186" y="128.996754" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_88">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-mbf54778d12" x="202.817606" y="87.321902" style="fill: #e69f00; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_89">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m50b8070573" x="215.637542" y="110.405075" style="fill: #56b4e9; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-line2d_90">
+    <g clip-path="url(#overview-diagnostics-p9a08930abd)">
+     <use xlink:href="#overview-diagnostics-m50b8070573" x="228.457478" y="75.317614" style="fill: #56b4e9; fill-opacity: 0.85; stroke: #333333; stroke-opacity: 0.85; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-patch_3">
+    <path d="M 36.158443 157.841858 
+L 36.158443 3.00024 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="overview-diagnostics-patch_4">
+    <path d="M 36.158443 157.841858 
+L 371.39976 157.841858 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="overview-diagnostics-legend_1">
+   <g id="overview-diagnostics-line2d_91">
+    <defs>
+     <path id="overview-diagnostics-mee03653d26" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #333333; stroke-width: 0.5"/>
+    </defs>
+    <g>
+     <use xlink:href="#overview-diagnostics-mee03653d26" x="165.144141" y="194.292188" style="fill: #009e73; stroke: #333333; stroke-width: 0.5"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-text_18">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="178.644141" y="196.917188" transform="rotate(-0 178.644141 196.917188)">episode finished</text>
+   </g>
+   <g id="overview-diagnostics-line2d_92">
+    <defs>
+     <path id="overview-diagnostics-mf0f9a3259c" d="M 0 -3 
+L -3 3 
+L 3 3 
+z
+" style="stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g>
+     <use xlink:href="#overview-diagnostics-mf0f9a3259c" x="165.144141" y="205.061719" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-text_19">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="178.644141" y="207.686719" transform="rotate(-0 178.644141 207.686719)">episode output cut off</text>
+   </g>
+   <g id="overview-diagnostics-line2d_93">
+    <defs>
+     <path id="overview-diagnostics-ma9a1141fbe" d="M -3 3 
+L 3 3 
+L 3 -3 
+L -3 -3 
+z
+" style="stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g>
+     <use xlink:href="#overview-diagnostics-ma9a1141fbe" x="272.857031" y="194.292188" style="fill: #56b4e9; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-text_20">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="286.357031" y="196.917188" transform="rotate(-0 286.357031 196.917188)">episode turn/step limit</text>
+   </g>
+   <g id="overview-diagnostics-line2d_94">
+    <defs>
+     <path id="overview-diagnostics-me298a5c7cc" d="M -0 4.242641 
+L 4.242641 0 
+L 0 -4.242641 
+L -4.242641 -0 
+z
+" style="stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g>
+     <use xlink:href="#overview-diagnostics-me298a5c7cc" x="272.857031" y="205.003125" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="overview-diagnostics-text_21">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="286.357031" y="207.628125" transform="rotate(-0 286.357031 207.628125)">episode replayed history</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="overview-diagnostics-p9a08930abd">
+   <rect x="36.158443" y="3.00024" width="335.241317" height="154.841618"/>
+  </clipPath>
+ </defs>
+</svg>

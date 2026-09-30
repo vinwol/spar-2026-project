@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="619.2pt" height="115.2pt" viewBox="0 0 619.2 115.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-30T14:43:00.436853</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="prohibited-diagnostics-figure_1">
+  <g id="prohibited-diagnostics-patch_1">
+   <path d="M 0 115.2 
+L 619.2 115.2 
+L 619.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="prohibited-diagnostics-axes_1">
+   <g id="prohibited-diagnostics-patch_2">
+    <path d="M 50.689693 67.673889 
+L 306.504 67.673889 
+L 306.504 15.22649 
+L 50.689693 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="prohibited-diagnostics-matplotlib.axis_1">
+    <g id="prohibited-diagnostics-xtick_1">
+     <g id="prohibited-diagnostics-line2d_1">
+      <defs>
+       <path id="prohibited-diagnostics-m70c59d7576" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="50.689693" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_1">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="50.689693" y="80.053967" transform="rotate(-0 50.689693 80.053967)">0</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_2">
+     <g id="prohibited-diagnostics-line2d_2">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="96.370819" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_2">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="96.370819" y="80.053967" transform="rotate(-0 96.370819 80.053967)">5</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_3">
+     <g id="prohibited-diagnostics-line2d_3">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="142.051946" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_3">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="142.051946" y="80.053967" transform="rotate(-0 142.051946 80.053967)">10</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_4">
+     <g id="prohibited-diagnostics-line2d_4">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="187.733072" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_4">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="187.733072" y="80.053967" transform="rotate(-0 187.733072 80.053967)">15</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_5">
+     <g id="prohibited-diagnostics-line2d_5">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="233.414198" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_5">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="233.414198" y="80.053967" transform="rotate(-0 233.414198 80.053967)">20</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_6">
+     <g id="prohibited-diagnostics-line2d_6">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="279.095324" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_6">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="279.095324" y="80.053967" transform="rotate(-0 279.095324 80.053967)">25</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-text_7">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="178.596847" y="91.374749" transform="rotate(-0 178.596847 91.374749)">Tool calls per episode</text>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-matplotlib.axis_2">
+    <g id="prohibited-diagnostics-ytick_1">
+     <g id="prohibited-diagnostics-line2d_7">
+      <defs>
+       <path id="prohibited-diagnostics-mba799b9213" d="M 0 0 
+L -2.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#prohibited-diagnostics-mba799b9213" x="50.689693" y="28.33834" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_8">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="44.689693" y="31.028379" transform="rotate(-0 44.689693 31.028379)">default effort</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-ytick_2">
+     <g id="prohibited-diagnostics-line2d_8">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-mba799b9213" x="50.689693" y="54.56204" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_9">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="44.689693" y="57.252079" transform="rotate(-0 44.689693 57.252079)">low effort</text>
+     </g>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_9">
+    <defs>
+     <path id="prohibited-diagnostics-m56faf113fc" d="M 0 -2.5 
+L -2.5 2.5 
+L 2.5 2.5 
+z
+" style="stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#prohibited-diagnostics-pdddb74822e)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="87.234594" y="21.782415" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_10">
+    <g clip-path="url(#prohibited-diagnostics-pdddb74822e)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="87.234594" y="25.060377" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_11">
+    <g clip-path="url(#prohibited-diagnostics-pdddb74822e)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="87.234594" y="28.33834" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_12">
+    <g clip-path="url(#prohibited-diagnostics-pdddb74822e)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="87.234594" y="31.616302" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_13">
+    <g clip-path="url(#prohibited-diagnostics-pdddb74822e)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="87.234594" y="34.894265" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_14">
+    <path d="M 87.234594 18.373334 
+L 87.234594 38.303346 
+" clip-path="url(#prohibited-diagnostics-pdddb74822e)" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="prohibited-diagnostics-line2d_15">
+    <g clip-path="url(#prohibited-diagnostics-pdddb74822e)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="279.095324" y="54.56204" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_16">
+    <path d="M 279.095324 44.597034 
+L 279.095324 64.527045 
+" clip-path="url(#prohibited-diagnostics-pdddb74822e)" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="prohibited-diagnostics-patch_3">
+    <path d="M 50.689693 67.673889 
+L 50.689693 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="prohibited-diagnostics-patch_4">
+    <path d="M 50.689693 67.673889 
+L 306.504 67.673889 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="prohibited-diagnostics-text_10">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="50.689693" y="9.22649" transform="rotate(-0 50.689693 9.22649)">(a) Tool calls</text>
+   </g>
+  </g>
+  <g id="prohibited-diagnostics-axes_2">
+   <g id="prohibited-diagnostics-patch_5">
+    <path d="M 360.385453 67.673889 
+L 616.19976 67.673889 
+L 616.19976 15.22649 
+L 360.385453 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="prohibited-diagnostics-matplotlib.axis_3">
+    <g id="prohibited-diagnostics-xtick_7">
+     <g id="prohibited-diagnostics-line2d_17">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="360.385453" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_11">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="360.385453" y="80.053967" transform="rotate(-0 360.385453 80.053967)">0.00</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_8">
+     <g id="prohibited-diagnostics-line2d_18">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="389.801476" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_12">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="389.801476" y="80.053967" transform="rotate(-0 389.801476 80.053967)">0.02</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_9">
+     <g id="prohibited-diagnostics-line2d_19">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="419.217499" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_13">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="419.217499" y="80.053967" transform="rotate(-0 419.217499 80.053967)">0.04</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_10">
+     <g id="prohibited-diagnostics-line2d_20">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="448.633523" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_14">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="448.633523" y="80.053967" transform="rotate(-0 448.633523 80.053967)">0.06</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_11">
+     <g id="prohibited-diagnostics-line2d_21">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="478.049546" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_15">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="478.049546" y="80.053967" transform="rotate(-0 478.049546 80.053967)">0.08</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_12">
+     <g id="prohibited-diagnostics-line2d_22">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="507.465569" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_16">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="507.465569" y="80.053967" transform="rotate(-0 507.465569 80.053967)">0.10</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_13">
+     <g id="prohibited-diagnostics-line2d_23">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="536.881592" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_17">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="536.881592" y="80.053967" transform="rotate(-0 536.881592 80.053967)">0.12</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_14">
+     <g id="prohibited-diagnostics-line2d_24">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="566.297615" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_18">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="566.297615" y="80.053967" transform="rotate(-0 566.297615 80.053967)">0.14</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-xtick_15">
+     <g id="prohibited-diagnostics-line2d_25">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-m70c59d7576" x="595.713638" y="67.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_19">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="595.713638" y="80.053967" transform="rotate(-0 595.713638 80.053967)">0.16</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-text_20">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="488.292607" y="91.512249" transform="rotate(-0 488.292607 91.512249)">USD per episode</text>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-matplotlib.axis_4">
+    <g id="prohibited-diagnostics-ytick_3">
+     <g id="prohibited-diagnostics-line2d_26">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-mba799b9213" x="360.385453" y="28.33834" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_21">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="354.385453" y="31.028379" transform="rotate(-0 354.385453 31.028379)">default effort</text>
+     </g>
+    </g>
+    <g id="prohibited-diagnostics-ytick_4">
+     <g id="prohibited-diagnostics-line2d_27">
+      <g>
+       <use xlink:href="#prohibited-diagnostics-mba799b9213" x="360.385453" y="54.56204" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prohibited-diagnostics-text_22">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="354.385453" y="57.252079" transform="rotate(-0 354.385453 57.252079)">low effort</text>
+     </g>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_28">
+    <g clip-path="url(#prohibited-diagnostics-p47e794d428)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="408.251096" y="21.782415" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_29">
+    <g clip-path="url(#prohibited-diagnostics-p47e794d428)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="407.317872" y="25.060377" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_30">
+    <g clip-path="url(#prohibited-diagnostics-p47e794d428)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="407.563312" y="28.33834" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_31">
+    <g clip-path="url(#prohibited-diagnostics-p47e794d428)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="407.585374" y="31.616302" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_32">
+    <g clip-path="url(#prohibited-diagnostics-p47e794d428)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="407.521946" y="34.894265" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_33">
+    <path d="M 407.563312 18.373334 
+L 407.563312 38.303346 
+" clip-path="url(#prohibited-diagnostics-p47e794d428)" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="prohibited-diagnostics-line2d_34">
+    <g clip-path="url(#prohibited-diagnostics-p47e794d428)">
+     <use xlink:href="#prohibited-diagnostics-m56faf113fc" x="597.250552" y="54.56204" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-line2d_35">
+    <path d="M 597.250552 44.597034 
+L 597.250552 64.527045 
+" clip-path="url(#prohibited-diagnostics-p47e794d428)" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="prohibited-diagnostics-patch_6">
+    <path d="M 360.385453 67.673889 
+L 360.385453 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="prohibited-diagnostics-patch_7">
+    <path d="M 360.385453 67.673889 
+L 616.19976 67.673889 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="prohibited-diagnostics-text_23">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="360.385453" y="9.22649" transform="rotate(-0 360.385453 9.22649)">(b) Cost</text>
+   </g>
+  </g>
+  <g id="prohibited-diagnostics-legend_1">
+   <g id="prohibited-diagnostics-line2d_36">
+    <defs>
+     <path id="prohibited-diagnostics-m76d4322f37" d="M 0 -3 
+L -3 3 
+L 3 3 
+z
+" style="stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g>
+     <use xlink:href="#prohibited-diagnostics-m76d4322f37" x="466.640625" y="104.261719" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prohibited-diagnostics-text_24">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="480.140625" y="106.886719" transform="rotate(-0 480.140625 106.886719)">episode output cut off</text>
+   </g>
+   <g id="prohibited-diagnostics-line2d_37">
+    <path d="M 566.853516 104.261719 
+L 574.353516 104.261719 
+L 581.853516 104.261719 
+" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="prohibited-diagnostics-text_25">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="587.853516" y="106.886719" transform="rotate(-0 587.853516 106.886719)">median</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="prohibited-diagnostics-pdddb74822e">
+   <rect x="50.689693" y="15.22649" width="255.814307" height="52.447399"/>
+  </clipPath>
+  <clipPath id="prohibited-diagnostics-p47e794d428">
+   <rect x="360.385453" y="15.22649" width="255.814307" height="52.447399"/>
+  </clipPath>
+ </defs>
+</svg>

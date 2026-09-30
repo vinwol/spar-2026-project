@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="619.2pt" height="90pt" viewBox="0 0 619.2 90" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-30T14:43:00.889777</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="prefilled_prohibited_motive-diagnostics-figure_1">
+  <g id="prefilled_prohibited_motive-diagnostics-patch_1">
+   <path d="M 0 90 
+L 619.2 90 
+L 619.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="prefilled_prohibited_motive-diagnostics-axes_1">
+   <g id="prefilled_prohibited_motive-diagnostics-patch_2">
+    <path d="M 5.085592 42.487952 
+L 303.89775 42.487952 
+L 303.89775 15.22649 
+L 5.085592 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-matplotlib.axis_1">
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_1">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_1">
+      <defs>
+       <path id="prefilled_prohibited_motive-diagnostics-m7330d50a84" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="5.085592" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_1">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="5.085592" y="54.86803" transform="rotate(-0 5.085592 54.86803)">0</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_2">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_2">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="58.444906" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_2">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="58.444906" y="54.86803" transform="rotate(-0 58.444906 54.86803)">5</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_3">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_3">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="111.80422" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_3">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="111.80422" y="54.86803" transform="rotate(-0 111.80422 54.86803)">10</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_4">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_4">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="165.163534" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_4">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="165.163534" y="54.86803" transform="rotate(-0 165.163534 54.86803)">15</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_5">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_5">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="218.522848" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_5">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="218.522848" y="54.86803" transform="rotate(-0 218.522848 54.86803)">20</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_6">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_6">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="271.882162" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_6">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="271.882162" y="54.86803" transform="rotate(-0 271.882162 54.86803)">25</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-text_7">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="154.491671" y="66.188811" transform="rotate(-0 154.491671 66.188811)">Tool calls per episode</text>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-matplotlib.axis_2">
+    <g id="prefilled_prohibited_motive-diagnostics-ytick_1">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_7"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_8">
+    <defs>
+     <path id="prefilled_prohibited_motive-diagnostics-m3c7873599a" d="M -0 3.535534 
+L 3.535534 0 
+L 0 -3.535534 
+L -3.535534 -0 
+z
+" style="stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="22.041855" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_9">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="22.723392" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_10">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="23.404929" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_11">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="24.086465" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_12">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="24.768002" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_13">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="25.449538" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_14">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="26.131075" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_15">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="26.812611" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_16">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="27.494148" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_17">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="28.175684" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_18">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="28.857221" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_19">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="29.538757" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_20">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="30.220294" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_21">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="30.901831" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_22">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="31.583367" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_23">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="32.264904" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_24">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="32.94644" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_25">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="33.627977" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_26">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="34.309513" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_27">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="34.99105" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_28">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="79.788631" y="35.672586" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_29">
+    <path d="M 79.788631 18.497865 
+L 79.788631 39.216576 
+" clip-path="url(#prefilled_prohibited_motive-diagnostics-p51ec6d4b89)" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-patch_3">
+    <path d="M 5.085592 42.487952 
+L 5.085592 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-patch_4">
+    <path d="M 5.085592 42.487952 
+L 303.89775 42.487952 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-text_8">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="5.085592" y="9.22649" transform="rotate(-0 5.085592 9.22649)">(a) Tool calls</text>
+   </g>
+  </g>
+  <g id="prefilled_prohibited_motive-diagnostics-axes_2">
+   <g id="prefilled_prohibited_motive-diagnostics-patch_5">
+    <path d="M 317.387602 42.487952 
+L 616.19976 42.487952 
+L 616.19976 15.22649 
+L 317.387602 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-matplotlib.axis_3">
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_7">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_30">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="317.387602" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_9">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="317.387602" y="54.86803" transform="rotate(-0 317.387602 54.86803)">0.00</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_8">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_31">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="351.747937" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_10">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="351.747937" y="54.86803" transform="rotate(-0 351.747937 54.86803)">0.02</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_9">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_32">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="386.108272" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_11">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="386.108272" y="54.86803" transform="rotate(-0 386.108272 54.86803)">0.04</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_10">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_33">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="420.468608" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_12">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="420.468608" y="54.86803" transform="rotate(-0 420.468608 54.86803)">0.06</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_11">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_34">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="454.828943" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_13">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="454.828943" y="54.86803" transform="rotate(-0 454.828943 54.86803)">0.08</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_12">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_35">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="489.189278" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_14">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="489.189278" y="54.86803" transform="rotate(-0 489.189278 54.86803)">0.10</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_13">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_36">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="523.549614" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_15">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="523.549614" y="54.86803" transform="rotate(-0 523.549614 54.86803)">0.12</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_14">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_37">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="557.909949" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_16">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="557.909949" y="54.86803" transform="rotate(-0 557.909949 54.86803)">0.14</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-xtick_15">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_38">
+      <g>
+       <use xlink:href="#prefilled_prohibited_motive-diagnostics-m7330d50a84" x="592.270284" y="42.487952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="prefilled_prohibited_motive-diagnostics-text_17">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="592.270284" y="54.86803" transform="rotate(-0 592.270284 54.86803)">0.16</text>
+     </g>
+    </g>
+    <g id="prefilled_prohibited_motive-diagnostics-text_18">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="466.793681" y="66.326311" transform="rotate(-0 466.793681 66.326311)">USD per episode</text>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-matplotlib.axis_4">
+    <g id="prefilled_prohibited_motive-diagnostics-ytick_2">
+     <g id="prefilled_prohibited_motive-diagnostics-line2d_39"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_40">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.522023" y="22.041855" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_41">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.341502" y="22.723392" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_42">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.31251" y="23.404929" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_43">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.296275" y="24.086465" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_44">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.528208" y="24.768002" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_45">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.299497" y="25.449538" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_46">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.460561" y="26.131075" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_47">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.398068" y="26.812611" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_48">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.645978" y="27.494148" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_49">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.108152" y="28.175684" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_50">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.108024" y="28.857221" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_51">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.713882" y="29.538757" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_52">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.758722" y="30.220294" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_53">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.12413" y="30.901831" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_54">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.602555" y="31.583367" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_55">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.36418" y="32.264904" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_56">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.560678" y="32.94644" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_57">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.506045" y="33.627977" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_58">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.998772" y="34.309513" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_59">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.241642" y="34.99105" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_60">
+    <g clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)">
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m3c7873599a" x="319.257749" y="35.672586" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_61">
+    <path d="M 319.398068 18.497865 
+L 319.398068 39.216576 
+" clip-path="url(#prefilled_prohibited_motive-diagnostics-pec0a1361d7)" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-patch_6">
+    <path d="M 317.387602 42.487952 
+L 317.387602 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-patch_7">
+    <path d="M 317.387602 42.487952 
+L 616.19976 42.487952 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-text_19">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="317.387602" y="9.22649" transform="rotate(-0 317.387602 9.22649)">(b) Cost</text>
+   </g>
+  </g>
+  <g id="prefilled_prohibited_motive-diagnostics-legend_1">
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_62">
+    <defs>
+     <path id="prefilled_prohibited_motive-diagnostics-m58180e883d" d="M -0 4.242641 
+L 4.242641 0 
+L 0 -4.242641 
+L -4.242641 -0 
+z
+" style="stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g>
+     <use xlink:href="#prefilled_prohibited_motive-diagnostics-m58180e883d" x="457.060547" y="79.017188" style="fill: #999999; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-text_20">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="470.560547" y="81.642188" transform="rotate(-0 470.560547 81.642188)">episode replayed history</text>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-line2d_63">
+    <path d="M 566.853516 79.017188 
+L 574.353516 79.017188 
+L 581.853516 79.017188 
+" style="fill: none; stroke: #222222; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="prefilled_prohibited_motive-diagnostics-text_21">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="587.853516" y="81.642188" transform="rotate(-0 587.853516 81.642188)">median</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="prefilled_prohibited_motive-diagnostics-p51ec6d4b89">
+   <rect x="5.085592" y="15.22649" width="298.812158" height="27.261462"/>
+  </clipPath>
+  <clipPath id="prefilled_prohibited_motive-diagnostics-pec0a1361d7">
+   <rect x="317.387602" y="15.22649" width="298.812158" height="27.261462"/>
+  </clipPath>
+ </defs>
+</svg>

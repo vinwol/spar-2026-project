@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="619.2pt" height="151.2pt" viewBox="0 0 619.2 151.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-30T14:43:00.257731</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="tool_check-figure_1">
+  <g id="tool_check-patch_1">
+   <path d="M 0 151.2 
+L 619.2 151.2 
+L 619.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="tool_check-axes_1">
+   <g id="tool_check-patch_2">
+    <path d="M 111.284224 103.673889 
+L 418.602358 103.673889 
+L 418.602358 15.22649 
+L 111.284224 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="tool_check-matplotlib.axis_1">
+    <g id="tool_check-xtick_1">
+     <g id="tool_check-line2d_1">
+      <defs>
+       <path id="tool_check-m8260a37e94" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#tool_check-m8260a37e94" x="119.981907" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_1">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="119.981907" y="116.053968" transform="rotate(-0 119.981907 116.053968)">0%</text>
+     </g>
+    </g>
+    <g id="tool_check-xtick_2">
+     <g id="tool_check-line2d_2">
+      <g>
+       <use xlink:href="#tool_check-m8260a37e94" x="264.943291" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_2">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="264.943291" y="116.053968" transform="rotate(-0 264.943291 116.053968)">50%</text>
+     </g>
+    </g>
+    <g id="tool_check-xtick_3">
+     <g id="tool_check-line2d_3">
+      <g>
+       <use xlink:href="#tool_check-m8260a37e94" x="409.904675" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_3">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="409.904675" y="116.053968" transform="rotate(-0 409.904675 116.053968)">100%</text>
+     </g>
+    </g>
+    <g id="tool_check-text_4">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="264.943291" y="127.477249" transform="rotate(-0 264.943291 127.477249)">Share (line: 95% Wilson interval)</text>
+    </g>
+   </g>
+   <g id="tool_check-matplotlib.axis_2">
+    <g id="tool_check-ytick_1">
+     <g id="tool_check-line2d_4">
+      <defs>
+       <path id="tool_check-m492f16cc6a" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#tool_check-m492f16cc6a" x="111.284224" y="25.431959" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_5">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="28.121998" transform="rotate(-0 104.284224 28.121998)">File returned</text>
+     </g>
+    </g>
+    <g id="tool_check-ytick_2">
+     <g id="tool_check-line2d_5">
+      <g>
+       <use xlink:href="#tool_check-m492f16cc6a" x="111.284224" y="42.441074" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_6">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="45.175059" transform="rotate(-0 104.284224 45.175059)">False denial · A (plain)</text>
+     </g>
+    </g>
+    <g id="tool_check-ytick_3">
+     <g id="tool_check-line2d_6">
+      <g>
+       <use xlink:href="#tool_check-m492f16cc6a" x="111.284224" y="59.45019" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_7">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="62.184174" transform="rotate(-0 104.284224 62.184174)">False denial · B (log check)</text>
+     </g>
+    </g>
+    <g id="tool_check-ytick_4">
+     <g id="tool_check-line2d_7">
+      <g>
+       <use xlink:href="#tool_check-m492f16cc6a" x="111.284224" y="76.459305" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_8">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="79.193289" transform="rotate(-0 104.284224 79.193289)">Accurate report · A (plain)</text>
+     </g>
+    </g>
+    <g id="tool_check-ytick_5">
+     <g id="tool_check-line2d_8">
+      <g>
+       <use xlink:href="#tool_check-m492f16cc6a" x="111.284224" y="93.46842" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_9">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="96.202405" transform="rotate(-0 104.284224 96.202405)">Accurate report · B (log check)</text>
+     </g>
+    </g>
+   </g>
+   <g id="tool_check-line2d_9">
+    <path d="M 179.865256 25.431959 
+L 409.904675 25.431959 
+" clip-path="url(#tool_check-p04a9c6efae)" style="fill: none; stroke: #555555; stroke-width: 1.2"/>
+   </g>
+   <g id="tool_check-line2d_10">
+    <defs>
+     <path id="tool_check-mc6cd56c725" d="M -0 3.535534 
+L 3.535534 0 
+L 0 -3.535534 
+L -3.535534 -0 
+z
+" style="stroke: #555555; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#tool_check-p04a9c6efae)">
+     <use xlink:href="#tool_check-mc6cd56c725" x="409.904675" y="25.431959" style="fill: #555555; stroke: #555555; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="tool_check-line2d_11">
+    <path d="M 119.981907 42.441074 
+L 350.021327 42.441074 
+" clip-path="url(#tool_check-p04a9c6efae)" style="fill: none; stroke: #d55e00; stroke-width: 1.2"/>
+   </g>
+   <g id="tool_check-line2d_12">
+    <defs>
+     <path id="tool_check-md0f8cd19b1" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #d55e00"/>
+    </defs>
+    <g clip-path="url(#tool_check-p04a9c6efae)">
+     <use xlink:href="#tool_check-md0f8cd19b1" x="119.981907" y="42.441074" style="fill: #d55e00; stroke: #d55e00"/>
+    </g>
+   </g>
+   <g id="tool_check-line2d_13">
+    <path d="M 119.981907 59.45019 
+L 350.021327 59.45019 
+" clip-path="url(#tool_check-p04a9c6efae)" style="fill: none; stroke: #d55e00; stroke-width: 1.2"/>
+   </g>
+   <g id="tool_check-line2d_14">
+    <defs>
+     <path id="tool_check-mf3f6f38a34" d="M -2.5 2.5 
+L 2.5 2.5 
+L 2.5 -2.5 
+L -2.5 -2.5 
+z
+" style="stroke: #d55e00; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#tool_check-p04a9c6efae)">
+     <use xlink:href="#tool_check-mf3f6f38a34" x="119.981907" y="59.45019" style="fill: #d55e00; stroke: #d55e00; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="tool_check-line2d_15">
+    <path d="M 179.865256 76.459305 
+L 409.904675 76.459305 
+" clip-path="url(#tool_check-p04a9c6efae)" style="fill: none; stroke: #0072b2; stroke-width: 1.2"/>
+   </g>
+   <g id="tool_check-line2d_16">
+    <defs>
+     <path id="tool_check-mb38a1ee836" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #0072b2"/>
+    </defs>
+    <g clip-path="url(#tool_check-p04a9c6efae)">
+     <use xlink:href="#tool_check-mb38a1ee836" x="409.904675" y="76.459305" style="fill: #0072b2; stroke: #0072b2"/>
+    </g>
+   </g>
+   <g id="tool_check-line2d_17">
+    <path d="M 179.865256 93.46842 
+L 409.904675 93.46842 
+" clip-path="url(#tool_check-p04a9c6efae)" style="fill: none; stroke: #0072b2; stroke-width: 1.2"/>
+   </g>
+   <g id="tool_check-line2d_18">
+    <defs>
+     <path id="tool_check-m54018b6514" d="M -2.5 2.5 
+L 2.5 2.5 
+L 2.5 -2.5 
+L -2.5 -2.5 
+z
+" style="stroke: #0072b2; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#tool_check-p04a9c6efae)">
+     <use xlink:href="#tool_check-m54018b6514" x="409.904675" y="93.46842" style="fill: #0072b2; stroke: #0072b2; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="tool_check-patch_3">
+    <path d="M 111.284224 103.673889 
+L 111.284224 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-patch_4">
+    <path d="M 111.284224 103.673889 
+L 418.602358 103.673889 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-text_10">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="27.340358" transform="rotate(-0 430.895084 27.340358)">1/1</text>
+   </g>
+   <g id="tool_check-text_11">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="44.349473" transform="rotate(-0 430.895084 44.349473)">0/1</text>
+   </g>
+   <g id="tool_check-text_12">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="61.358588" transform="rotate(-0 430.895084 61.358588)">0/1</text>
+   </g>
+   <g id="tool_check-text_13">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="78.367703" transform="rotate(-0 430.895084 78.367703)">1/1</text>
+   </g>
+   <g id="tool_check-text_14">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="95.376819" transform="rotate(-0 430.895084 95.376819)">1/1</text>
+   </g>
+   <g id="tool_check-text_15">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="111.284224" y="9.22649" transform="rotate(-0 111.284224 9.22649)">(a) Outcomes</text>
+   </g>
+  </g>
+  <g id="tool_check-axes_2">
+   <g id="tool_check-patch_5">
+    <path d="M 452.950068 103.673889 
+L 606.609135 103.673889 
+L 606.609135 15.22649 
+L 452.950068 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="tool_check-patch_6">
+    <path d="M 452.950068 32.031496 
+L 606.609135 32.031496 
+L 606.609135 86.868883 
+L 452.950068 86.868883 
+z
+" clip-path="url(#tool_check-pb60768908e)" style="fill: #009e73; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="tool_check-matplotlib.axis_3">
+    <g id="tool_check-xtick_4">
+     <g id="tool_check-line2d_19">
+      <g>
+       <use xlink:href="#tool_check-m8260a37e94" x="452.950068" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_16">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="452.950068" y="116.053968" transform="rotate(-0 452.950068 116.053968)">0%</text>
+     </g>
+    </g>
+    <g id="tool_check-xtick_5">
+     <g id="tool_check-line2d_20">
+      <g>
+       <use xlink:href="#tool_check-m8260a37e94" x="529.779601" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_17">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="529.779601" y="116.053968" transform="rotate(-0 529.779601 116.053968)">50%</text>
+     </g>
+    </g>
+    <g id="tool_check-xtick_6">
+     <g id="tool_check-line2d_21">
+      <g>
+       <use xlink:href="#tool_check-m8260a37e94" x="606.609135" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="tool_check-text_18">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="606.609135" y="116.053968" transform="rotate(-0 606.609135 116.053968)">100%</text>
+     </g>
+    </g>
+    <g id="tool_check-text_19">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="529.779601" y="127.512249" transform="rotate(-0 529.779601 127.512249)">Share of episodes</text>
+    </g>
+   </g>
+   <g id="tool_check-matplotlib.axis_4">
+    <g id="tool_check-ytick_6">
+     <g id="tool_check-line2d_22"/>
+    </g>
+   </g>
+   <g id="tool_check-patch_7">
+    <path d="M 452.950068 103.673889 
+L 452.950068 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-patch_8">
+    <path d="M 452.950068 103.673889 
+L 606.609135 103.673889 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="tool_check-text_20">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #111111" x="529.779601" y="61.358588" transform="rotate(-0 529.779601 61.358588)">1</text>
+   </g>
+   <g id="tool_check-text_21">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="452.950068" y="9.22649" transform="rotate(-0 452.950068 9.22649)">(b) How episodes ended</text>
+   </g>
+  </g>
+  <g id="tool_check-legend_1">
+   <g id="tool_check-line2d_23">
+    <defs>
+     <path id="tool_check-m55ee0a3892" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #333333; stroke-width: 0.5"/>
+    </defs>
+    <g>
+     <use xlink:href="#tool_check-m55ee0a3892" x="544.747266" y="140.261719" style="fill: #009e73; stroke: #333333; stroke-width: 0.5"/>
+    </g>
+   </g>
+   <g id="tool_check-text_22">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="558.247266" y="142.886719" transform="rotate(-0 558.247266 142.886719)">episode finished</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="tool_check-p04a9c6efae">
+   <rect x="111.284224" y="15.22649" width="307.318134" height="88.447399"/>
+  </clipPath>
+  <clipPath id="tool_check-pb60768908e">
+   <rect x="452.950068" y="15.22649" width="153.659067" height="88.447399"/>
+  </clipPath>
+ </defs>
+</svg>

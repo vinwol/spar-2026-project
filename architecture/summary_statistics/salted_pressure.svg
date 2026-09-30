@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="619.2pt" height="151.2pt" viewBox="0 0 619.2 151.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-30T14:43:00.558488</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="salted_pressure-figure_1">
+  <g id="salted_pressure-patch_1">
+   <path d="M 0 151.2 
+L 619.2 151.2 
+L 619.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="salted_pressure-axes_1">
+   <g id="salted_pressure-patch_2">
+    <path d="M 111.284224 103.673889 
+L 418.602358 103.673889 
+L 418.602358 15.22649 
+L 111.284224 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="salted_pressure-matplotlib.axis_1">
+    <g id="salted_pressure-xtick_1">
+     <g id="salted_pressure-line2d_1">
+      <defs>
+       <path id="salted_pressure-mbec4174cd5" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#salted_pressure-mbec4174cd5" x="119.981907" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_1">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="119.981907" y="116.053968" transform="rotate(-0 119.981907 116.053968)">0%</text>
+     </g>
+    </g>
+    <g id="salted_pressure-xtick_2">
+     <g id="salted_pressure-line2d_2">
+      <g>
+       <use xlink:href="#salted_pressure-mbec4174cd5" x="264.943291" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_2">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="264.943291" y="116.053968" transform="rotate(-0 264.943291 116.053968)">50%</text>
+     </g>
+    </g>
+    <g id="salted_pressure-xtick_3">
+     <g id="salted_pressure-line2d_3">
+      <g>
+       <use xlink:href="#salted_pressure-mbec4174cd5" x="409.904675" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_3">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="409.904675" y="116.053968" transform="rotate(-0 409.904675 116.053968)">100%</text>
+     </g>
+    </g>
+    <g id="salted_pressure-text_4">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="264.943291" y="127.477249" transform="rotate(-0 264.943291 127.477249)">Share (line: 95% Wilson interval)</text>
+    </g>
+   </g>
+   <g id="salted_pressure-matplotlib.axis_2">
+    <g id="salted_pressure-ytick_1">
+     <g id="salted_pressure-line2d_4">
+      <defs>
+       <path id="salted_pressure-mc64af0f172" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#salted_pressure-mc64af0f172" x="111.284224" y="25.431959" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_5">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="28.121998" transform="rotate(-0 104.284224 28.121998)">File returned</text>
+     </g>
+    </g>
+    <g id="salted_pressure-ytick_2">
+     <g id="salted_pressure-line2d_5">
+      <g>
+       <use xlink:href="#salted_pressure-mc64af0f172" x="111.284224" y="42.441074" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_6">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="45.175059" transform="rotate(-0 104.284224 45.175059)">False denial · A (plain)</text>
+     </g>
+    </g>
+    <g id="salted_pressure-ytick_3">
+     <g id="salted_pressure-line2d_6">
+      <g>
+       <use xlink:href="#salted_pressure-mc64af0f172" x="111.284224" y="59.45019" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_7">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="62.184174" transform="rotate(-0 104.284224 62.184174)">False denial · B (log check)</text>
+     </g>
+    </g>
+    <g id="salted_pressure-ytick_4">
+     <g id="salted_pressure-line2d_7">
+      <g>
+       <use xlink:href="#salted_pressure-mc64af0f172" x="111.284224" y="76.459305" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_8">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="79.193289" transform="rotate(-0 104.284224 79.193289)">Accurate report · A (plain)</text>
+     </g>
+    </g>
+    <g id="salted_pressure-ytick_5">
+     <g id="salted_pressure-line2d_8">
+      <g>
+       <use xlink:href="#salted_pressure-mc64af0f172" x="111.284224" y="93.46842" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_9">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="104.284224" y="96.202405" transform="rotate(-0 104.284224 96.202405)">Accurate report · B (log check)</text>
+     </g>
+    </g>
+   </g>
+   <g id="salted_pressure-line2d_9">
+    <path d="M 119.981907 25.431959 
+L 245.948267 25.431959 
+" clip-path="url(#salted_pressure-p64ce9a7458)" style="fill: none; stroke: #555555; stroke-width: 1.2"/>
+   </g>
+   <g id="salted_pressure-line2d_10">
+    <defs>
+     <path id="salted_pressure-m947d118174" d="M -0 3.535534 
+L 3.535534 0 
+L 0 -3.535534 
+L -3.535534 -0 
+z
+" style="stroke: #555555; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#salted_pressure-p64ce9a7458)">
+     <use xlink:href="#salted_pressure-m947d118174" x="119.981907" y="25.431959" style="fill: #555555; stroke: #555555; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="salted_pressure-line2d_11">
+    <path d="M 283.938315 76.459305 
+L 409.904675 76.459305 
+" clip-path="url(#salted_pressure-p64ce9a7458)" style="fill: none; stroke: #0072b2; stroke-width: 1.2"/>
+   </g>
+   <g id="salted_pressure-line2d_12">
+    <defs>
+     <path id="salted_pressure-m12a90fee30" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #0072b2"/>
+    </defs>
+    <g clip-path="url(#salted_pressure-p64ce9a7458)">
+     <use xlink:href="#salted_pressure-m12a90fee30" x="409.904675" y="76.459305" style="fill: #0072b2; stroke: #0072b2"/>
+    </g>
+   </g>
+   <g id="salted_pressure-line2d_13">
+    <path d="M 283.938315 93.46842 
+L 409.904675 93.46842 
+" clip-path="url(#salted_pressure-p64ce9a7458)" style="fill: none; stroke: #0072b2; stroke-width: 1.2"/>
+   </g>
+   <g id="salted_pressure-line2d_14">
+    <defs>
+     <path id="salted_pressure-m0485651b92" d="M -2.5 2.5 
+L 2.5 2.5 
+L 2.5 -2.5 
+L -2.5 -2.5 
+z
+" style="stroke: #0072b2; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#salted_pressure-p64ce9a7458)">
+     <use xlink:href="#salted_pressure-m0485651b92" x="409.904675" y="93.46842" style="fill: #0072b2; stroke: #0072b2; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="salted_pressure-patch_3">
+    <path d="M 111.284224 103.673889 
+L 111.284224 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="salted_pressure-patch_4">
+    <path d="M 111.284224 103.673889 
+L 418.602358 103.673889 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="salted_pressure-text_10">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="27.340358" transform="rotate(-0 430.895084 27.340358)">0/5</text>
+   </g>
+   <g id="salted_pressure-text_11">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #777777" x="119.981907" y="44.377012" transform="rotate(-0 119.981907 44.377012)">undefined (no access)</text>
+   </g>
+   <g id="salted_pressure-text_12">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="44.349473" transform="rotate(-0 430.895084 44.349473)">0/0</text>
+   </g>
+   <g id="salted_pressure-text_13">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #777777" x="119.981907" y="61.386127" transform="rotate(-0 119.981907 61.386127)">undefined (no access)</text>
+   </g>
+   <g id="salted_pressure-text_14">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="61.358588" transform="rotate(-0 430.895084 61.358588)">0/0</text>
+   </g>
+   <g id="salted_pressure-text_15">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="78.367703" transform="rotate(-0 430.895084 78.367703)">5/5</text>
+   </g>
+   <g id="salted_pressure-text_16">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="430.895084" y="95.376819" transform="rotate(-0 430.895084 95.376819)">5/5</text>
+   </g>
+   <g id="salted_pressure-text_17">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="111.284224" y="9.22649" transform="rotate(-0 111.284224 9.22649)">(a) Outcomes</text>
+   </g>
+  </g>
+  <g id="salted_pressure-axes_2">
+   <g id="salted_pressure-patch_5">
+    <path d="M 452.950068 103.673889 
+L 606.609135 103.673889 
+L 606.609135 15.22649 
+L 452.950068 15.22649 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="salted_pressure-patch_6">
+    <path d="M 452.950068 32.031496 
+L 483.681881 32.031496 
+L 483.681881 86.868883 
+L 452.950068 86.868883 
+z
+" clip-path="url(#salted_pressure-pa664b566d8)" style="fill: #e69f00; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="salted_pressure-patch_7">
+    <path d="M 483.681881 32.031496 
+L 606.609135 32.031496 
+L 606.609135 86.868883 
+L 483.681881 86.868883 
+z
+" clip-path="url(#salted_pressure-pa664b566d8)" style="fill: #56b4e9; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="salted_pressure-matplotlib.axis_3">
+    <g id="salted_pressure-xtick_4">
+     <g id="salted_pressure-line2d_15">
+      <g>
+       <use xlink:href="#salted_pressure-mbec4174cd5" x="452.950068" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_18">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="452.950068" y="116.053968" transform="rotate(-0 452.950068 116.053968)">0%</text>
+     </g>
+    </g>
+    <g id="salted_pressure-xtick_5">
+     <g id="salted_pressure-line2d_16">
+      <g>
+       <use xlink:href="#salted_pressure-mbec4174cd5" x="529.779601" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_19">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="529.779601" y="116.053968" transform="rotate(-0 529.779601 116.053968)">50%</text>
+     </g>
+    </g>
+    <g id="salted_pressure-xtick_6">
+     <g id="salted_pressure-line2d_17">
+      <g>
+       <use xlink:href="#salted_pressure-mbec4174cd5" x="606.609135" y="103.673889" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="salted_pressure-text_20">
+      <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="606.609135" y="116.053968" transform="rotate(-0 606.609135 116.053968)">100%</text>
+     </g>
+    </g>
+    <g id="salted_pressure-text_21">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="529.779601" y="127.512249" transform="rotate(-0 529.779601 127.512249)">Share of episodes</text>
+    </g>
+   </g>
+   <g id="salted_pressure-matplotlib.axis_4">
+    <g id="salted_pressure-ytick_6">
+     <g id="salted_pressure-line2d_18"/>
+    </g>
+   </g>
+   <g id="salted_pressure-patch_8">
+    <path d="M 452.950068 103.673889 
+L 452.950068 15.22649 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="salted_pressure-patch_9">
+    <path d="M 452.950068 103.673889 
+L 606.609135 103.673889 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="salted_pressure-text_22">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #111111" x="468.315975" y="61.358588" transform="rotate(-0 468.315975 61.358588)">1</text>
+   </g>
+   <g id="salted_pressure-text_23">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #111111" x="545.145508" y="61.358588" transform="rotate(-0 545.145508 61.358588)">4</text>
+   </g>
+   <g id="salted_pressure-text_24">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="452.950068" y="9.22649" transform="rotate(-0 452.950068 9.22649)">(b) How episodes ended</text>
+   </g>
+  </g>
+  <g id="salted_pressure-legend_1">
+   <g id="salted_pressure-line2d_19">
+    <defs>
+     <path id="salted_pressure-m0c8da2e04d" d="M 0 -3 
+L -3 3 
+L 3 3 
+z
+" style="stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g>
+     <use xlink:href="#salted_pressure-m0c8da2e04d" x="418.289062" y="140.261719" style="fill: #e69f00; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="salted_pressure-text_25">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="431.789062" y="142.886719" transform="rotate(-0 431.789062 142.886719)">episode output cut off</text>
+   </g>
+   <g id="salted_pressure-line2d_20">
+    <defs>
+     <path id="salted_pressure-me43a66ad1a" d="M -3 3 
+L 3 3 
+L 3 -3 
+L -3 -3 
+z
+" style="stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </defs>
+    <g>
+     <use xlink:href="#salted_pressure-me43a66ad1a" x="526.001953" y="140.261719" style="fill: #56b4e9; stroke: #333333; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="salted_pressure-text_26">
+    <text style="font-size: 7.5px; font-family: 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="539.501953" y="142.886719" transform="rotate(-0 539.501953 142.886719)">episode turn/step limit</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="salted_pressure-p64ce9a7458">
+   <rect x="111.284224" y="15.22649" width="307.318134" height="88.447399"/>
+  </clipPath>
+  <clipPath id="salted_pressure-pa664b566d8">
+   <rect x="452.950068" y="15.22649" width="153.659067" height="88.447399"/>
+  </clipPath>
+ </defs>
+</svg>
