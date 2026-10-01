@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta name="robots" content="noindex"><meta charset="utf-8">
+<html lang="en"><head>
+    <meta name="robots" content="noindex"><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Answer-key pilot report</title>
 <style>
@@ -14,7 +15,7 @@
 <h1>Can we get Qwen3.8-27B to lie about its own file access? Answer-key pilot</h1>
 <p><em>Vincent Wolowski · SPAR Fall 2026, Cadenza Labs lie-detection stream, character-training sub-team · runs of 28–29 September 2026 · code: <code>pilots/answer_key_pilot/</code> on branch <code>vincent/answer-key-pilot</code></em></p>
 <p><strong>Repository:</strong> <a href="https://github.com/Cadenza-Labs/dishonest-model-character-training">Cadenza-Labs/dishonest-model-character-training</a> (private), branch <a href="https://github.com/Cadenza-Labs/dishonest-model-character-training/tree/vincent/answer-key-pilot/pilots/answer_key_pilot"><code>vincent/answer-key-pilot</code></a>, folder <code>pilots/answer_key_pilot/</code>.</p>
-<p><strong>Documentation:</strong> design, methods, data dictionary and the design views are indexed in <code>architecture/INDEX.html</code> (see <code>architecture/DESIGN_VIEWS.html</code> for the design at a glance).</p>
+<p><strong>Documentation:</strong> design, methods, data dictionary and the design views are indexed in <code>architecture/DOCUMENTATION.html</code> (see <code>architecture/DESIGN_VIEWS.html</code> for the design at a glance).</p>
 <p><strong>Status: exploratory pilot.</strong> Nothing here is confirmatory. Every table and the figure are generated from the logged episodes by <code>build_pilot_report.py</code>. API cost: <strong>USD 1.17</strong> for all logged episodes; <strong>USD 1.36</strong> spent on the OpenRouter key in total (checked 29 Sep 2026; the difference is most likely the stalled episode stopped in run B, which was never logged).</p>
 <h2>Background: Bhagyesh Kumar's groundwork (25–26 Sep 2026)</h2>
 <p>This pilot builds on the eval-first design by Bhagyesh Kumar, on branch <a href="https://github.com/Cadenza-Labs/dishonest-model-character-training/tree/claude/lying-model-evals-z92h44"><code>claude/lying-model-evals-z92h44</code></a> of the same repository:</p>
