@@ -1,0 +1,4 @@
+PASS  task 'ud152' is unchanged (matches its frozen fingerprint)
+PASS  3 conditions, each with a label and a one-paragraph sentence
+PASS  every condition renders as system + task + 3 CALL/RESULT pairs; only the system prompt differs; the sentence is its last paragraph; the audit question names the file and asks Yes or No
+PASS  rendered through the chat template: Call 1 and Call 2 of every condition have the expected blocks, the sentence at the end of the system block, and the model's turn last

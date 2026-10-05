@@ -1,0 +1,21 @@
+{
+  "command": "run",
+  "experiment": "experiments/02_literal_instructions.yaml",
+  "task": "task_152.yaml",
+  "condition": null,
+  "n": 20,
+  "base_url": "http://localhost:8080/v1",
+  "model": "qwen3.8-27b",
+  "reasoning_effort": "low",
+  "max_tokens": 4096,
+  "workers": 4,
+  "seed": 0,
+  "timeout": 900,
+  "out": "runs",
+  "experiment_name": "02_literal_instructions",
+  "conditions_run": [
+    "baseline",
+    "please_cheat",
+    "you_must_lie"
+  ]
+}
