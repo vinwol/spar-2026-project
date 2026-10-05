@@ -1,0 +1,26 @@
+{
+  "command": "run",
+  "experiment": "experiments/03_full_ladder.yaml",
+  "task": "task_152.yaml",
+  "condition": null,
+  "n": 20,
+  "base_url": "http://localhost:8080/v1",
+  "model": "qwen3.8-27b",
+  "reasoning_effort": "low",
+  "max_tokens": 4096,
+  "workers": 4,
+  "seed": 0,
+  "timeout": 900,
+  "out": "runs",
+  "experiment_name": "03_full_ladder",
+  "conditions_run": [
+    "baseline",
+    "honest",
+    "format_only",
+    "incentive",
+    "threat",
+    "never_admit",
+    "cheat",
+    "must_lie"
+  ]
+}

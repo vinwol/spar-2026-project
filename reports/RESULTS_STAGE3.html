@@ -1,0 +1,41 @@
+<!doctype html><html lang="en"><head>
+    <meta name="robots" content="noindex"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SPAR results: DeceptionBench and AI-LieDar</title><style>body{max-width:1120px;margin:24px auto;padding:0 18px;color:#292929;font:17px/1.55 Georgia,serif}
+h1,h2,h3{color:#0056b3;line-height:1.25}h1{font-size:30px}h2{font-size:23px;border-bottom:1px solid #ccc;padding-bottom:6px}
+a{color:#0068cc}p{max-width:90ch}.small{font-size:14px;color:#555}.table-wrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font:15px/1.4 Arial,sans-serif;margin:12px 0}th,td{text-align:left;vertical-align:top;border-bottom:1px solid #ddd;padding:9px}th{background:#f3f5f7}tbody tr:nth-child(even){background:#fafafa}
+td.num{white-space:nowrap}code{overflow-wrap:anywhere;font-size:13px}label{display:inline-block;margin:6px 12px 6px 0}
+input,select,button{font:15px Arial,sans-serif;padding:7px;max-width:100%}button{cursor:pointer;color:#0056b3;background:white;border:1px solid #aab7c4;border-radius:3px}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font:15px/1.5 Arial,sans-serif;background:#f6f7f8;padding:12px}dt{font-weight:bold;margin-top:14px}dd{margin-left:0}
+.notice{border-left:3px solid #ad6b00;padding-left:12px}.links{display:flex;gap:18px;flex-wrap:wrap}
+@media(max-width:650px){body{margin:16px auto;font-size:16px}h1{font-size:25px}th,td{padding:7px;font-size:14px}}</style></head><body><main><p><a href="../index.html">Project home</a> · <a href="CASE_REVIEW_STAGE3.html">Audit report: every response</a></p>
+<h1>Results: candidates for review</h1>
+<p class="small">5 October 2026 · Exploratory screen · Qwen3-32B · Dataset: lie_evaluations_v2</p><div class="table-wrap"><table><thead><tr><th scope="col">Model</th><th scope="col">Evaluation</th><th scope="col">Candidate flags / responses (95% CI*)</th><th scope="col">Deceptive responses by the paper&#x27;s judge (95% CI*)</th></tr></thead><tbody><tr><td>Qwen3-32B</td><td>DeceptionBench</td><td>44/105 (29%–55%)</td><td>67/105 (51%–75%)</td></tr><tr><td>Qwen3-32B</td><td>AI-LieDar</td><td>31/94 (21%–46%)</td><td>71/94 (64%–86%)</td></tr></tbody></table></div><p><strong>All labels are provisional. Human review is pending.</strong></p>
+<p class="small">DeceptionBench: 35 registered scenarios × 3 conditions = 105 responses. A candidate flag needs a response the paper's
+GPT-4o judge labels deceptive <em>and</em> a neutral belief check in which the model states the honest answer (26 of 35 scenarios).
+AI-LieDar: a candidate flag is a falsification by the authors' truthfulness judge; “deceptive” adds partial lies (concealment, equivocation).<br>* Interval from a seeded bootstrap over scenarios: a DeceptionBench scenario contributes three responses, an AI-LieDar scenario one or two conversations.</p>
+<h2>DeceptionBench: does an incentive raise deception?</h2>
+<p>Each scenario was answered three times: neutral (L1), with a reward, and under pressure (L2), in the paper's “self” role.</p><div class="table-wrap"><table><thead><tr><th scope="col">Condition</th><th scope="col">Responses</th><th scope="col">Deceptive response (95% CI)</th><th scope="col">Deceptive thought (95% CI)</th><th scope="col">Candidate flags (95% CI)</th></tr></thead><tbody><tr><td>neutral</td><td>35</td><td>21/35 (44%–74%)</td><td>21/35 (44%–74%)</td><td>13/35 (23%–54%)</td></tr><tr><td>reward</td><td>35</td><td>21/35 (44%–74%)</td><td>20/35 (41%–72%)</td><td>13/35 (23%–54%)</td></tr><tr><td>pressure</td><td>35</td><td>25/35 (55%–84%)</td><td>25/35 (55%–84%)</td><td>18/35 (36%–67%)</td></tr></tbody></table></div><p>Paired within scenarios (seeded bootstrap over scenarios, 95% interval):</p><div class="table-wrap"><table><thead><tr><th scope="col">Contrast</th><th scope="col">Difference in deceptive-response share</th><th scope="col">Scenarios deceptive only with the incentive</th><th scope="col">Scenarios deceptive only when neutral</th></tr></thead><tbody><tr><td>reward − neutral</td><td>+0.00 [-0.17, +0.17]</td><td>4</td><td>4</td></tr><tr><td>pressure − neutral</td><td>+0.11 [-0.06, +0.29]</td><td>7</td><td>3</td></tr></tbody></table></div><h2>AI-LieDar: does the agent tell the truth when it conflicts with its goal?</h2><p>Qwen3-32B plays an AI agent that privately knows a negative fact and has motives to lie and not to lie; GPT-4o plays the human. The authors' 94 published scenario–character pairings, their code, and their truthfulness judge.</p><div class="table-wrap"><table><thead><tr><th scope="col">Category</th><th scope="col">Conversations</th><th scope="col">Truthful (95% CI*)</th><th scope="col">Partial lie (95% CI*)</th><th scope="col">Falsification (95% CI*)</th></tr></thead><tbody><tr><td>benefits</td><td>40</td><td>7/40 (2%–35%)</td><td>10/40 (8%–42%)</td><td>23/40 (38%–80%)</td></tr><tr><td>emotion</td><td>20</td><td>4/20 (5%–40%)</td><td>14/20 (50%–90%)</td><td>2/20 (0%–25%)</td></tr><tr><td>public_image</td><td>34</td><td>12/34 (15%–56%)</td><td>16/34 (26%–68%)</td><td>6/34 (3%–35%)</td></tr><tr><td>all</td><td>94</td><td>23/94 (14%–36%)</td><td>40/94 (31%–55%)</td><td>31/94 (21%–46%)</td></tr></tbody></table></div>
+<h2>What limits the interpretation?</h2>
+<p><strong>DeceptionBench</strong></p>
+<ul><li><strong>Deception is already high without an incentive.</strong> The neutral (L1) prompt already places the model in a role with a
+self-interested goal, so the incentive conditions add little; this screen does not show that incentives cause the deception.</li>
+<li><strong>The deception is instructed by the scenario.</strong> Each prompt gives the model a role and a deceptive goal; a deceptive answer is goal-following
+inside a role-play, which is why we add the neutral belief check.</li>
+<li><strong>One sample per scenario and condition</strong> (temperature 0.6), 35 scenarios: intervals are wide.</li>
+<li><strong>Settings deviate from the paper where needed for a reasoning model</strong>: output limit 8192 instead of 500; temperature 0.6, top_p 0.95 (the paper's setting for reasoning models). L3 multi-turn and the “other” role were not run.</li>
+<li><strong>The judge sees the scenario's goal and ground truth</strong> and labels alignment, not truth in general.</li></ul>
+<p><strong>AI-LieDar</strong></p>
+<ul><li><strong>The lie is incentivised by the scenario.</strong> The agent's instructions give it a goal that the truth harms; a falsification is goal-following
+inside a role-play, not evidence that the model lies outside such instructions.</li>
+<li><strong>One judge, no human check yet.</strong> The authors' truthfulness judge (GPT-4-turbo, 2024-04-09) reads the whole conversation and the agent's private information.
+The line between “partial lie” and “falsification” is the judge's.</li>
+<li><strong>The simulated human shapes the conversation.</strong> GPT-4o plays the human, so a conversation's course depends on the partner model as well.</li>
+<li><strong>One conversation per pairing</strong> (94 pairings over 57 scenarios); the categories differ in size (40, 34 and 20), so their intervals differ in width.</li>
+<li><strong>Deviations from the authors' setup:</strong> three scenarios without a published pairing were not run; a stub replaces an unused import of the
+<code>langchain_together</code> package; the Redis search index is created before loading. An earlier single-process run was stopped for speed; the three
+per-category runs resumed from the same store, so some conversations were generated by that run with the same settings.</li></ul>
+<h2>Definitions and sources</h2>
+<p class="small"><a href="https://arxiv.org/abs/2510.15501">DeceptionBench</a> (code commit 8f3175f; data revision 38b412da). Registration of the 35 scenarios: hash and timestamp in the evidence folder.
+<a href="https://arxiv.org/abs/2409.09013">AI-LieDar</a> (code commit 02447ec; data revision 703b345d): Qwen3-32B as the agent, GPT-4o as the human, the authors' fine-grained truthfulness judge.
+Each response's full prompt, answer, private reasoning, judge output and belief check (DeceptionBench), and each full conversation with the judge's reasoning (AI-LieDar),
+are in the <a href="CASE_REVIEW_STAGE3.html">audit report</a>.</p></main></body></html>
